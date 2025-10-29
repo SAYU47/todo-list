@@ -7,6 +7,9 @@
 1 Клонируйте репозиторий
 ```bash
 git clone https://github.com/SAYU47/todo-list.git
+# или же через ssh
+git clone git@github.com:SAYU47/todo-list.git
+
 cd todo-list
 ```
 
