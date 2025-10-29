@@ -6,7 +6,7 @@
 
 1 Клонируйте репозиторий
 ```bash
-git clone <https://github.com/SAYU47/todo-list.git>
+git clone https://github.com/SAYU47/todo-list.git
 cd todo-list
 ```
 
